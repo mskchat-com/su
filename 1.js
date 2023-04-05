@@ -84,3 +84,4 @@ $(`<style>
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 $.getScript("https://raw.githack.com/mskchat-com/je2/main/kd.js");
 $.getScript("https://raw.githack.com/mskchat-com/j3/main/ed.js");
+$.getScript("https://raw.githack.com/mskchat-com/-kb/main/kb.js");
